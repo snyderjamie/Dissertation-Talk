@@ -3,7 +3,7 @@
 
 One process that has the potential of efficiently harvesting solar energy is singlet fission (SF), a process by which one photon of light can produce two excited states. Investigations of three different series of bistetracene (BT) dimers were used to explore the effect of symmetry on the rate and driving force of SF, as well as the electronic coupling. A dimer and the corresponding monomer were used to build a synthetic infrastructure and explore preliminary photophysics. All of the dimers were connected by one to three norbornyl bridges and exhibit varying amounts of electronic coupling.
 
-<p align="center"><img src=https://user-images.githubusercontent.com/46801611/63736294-925cb980-c850-11e9-8e45-dfccf3828878.gif/></p>
+<p align="center"><img src=https://user-images.githubusercontent.com/46801611/63736294-925cb980-c850-11e9-8e45-dfccf3828878.gif></p>
 <p align="center"><a href="https://pubs.acs.org/doi/abs/10.1021/jp407426q">J. Phys. Chem. A 2013, 117, 42, 10824-10838</a></p>
 
 The first series of cofacial BT dimers that have one (BT1) to three (BT3) norbornyl bridges linking the two tetracene chromophores. Density functional theory calculations of BT1-BT3 were used to explore the SF driving force and the change in through-space versus through-bond contributions to the electronic coupling. The thorough synthetic investigation of the monomeric tetracene-norbornyl bridge developed to build a synthetic library that aided the synthesis of BT1, the first rigid SF dimer, will be discussed.
