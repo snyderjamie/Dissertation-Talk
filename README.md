@@ -12,10 +12,10 @@ The first series of cofacial BT dimers that have one (BT1) to three (BT3) norbor
 
 In the second portion of this work, the SF driving force, the electronic coupling will be calculated for the second and third series of BT dimers. In the second series, the orbital overlap of the norbornyl bridge and tetracene arms will be exploited by changing how the bridge and arms are connected. In the final series, the synthetic infrastructure developed for BT1 is utilized in the design of a series of heteroatom substitutions. The last two series of BT dimers were found to lead to an increase in the electronic coupling, which is expected to be productive for SF.
 
-<div style="text-align:center"><img src=https://user-images.githubusercontent.com/46801611/63736540-67bf3080-c851-11e9-9833-ae5a4173e920.png width="300"></div>
+<div style="text-align:center"><img src=https://user-images.githubusercontent.com/46801611/63736540-67bf3080-c851-11e9-9833-ae5a4173e920.png width="300"/></div>
 
 
-<div style="text-align:center"><img src=https://user-images.githubusercontent.com/46801611/63736559-7a396a00-c851-11e9-862d-0656b54931eb.png width="300"></div>
+<div style="text-align:center"><img src=https://user-images.githubusercontent.com/46801611/63736559-7a396a00-c851-11e9-862d-0656b54931eb.png width="300"/></div>
 
 
 ### [View talk](https://github.com/snyderjamie/Dissertation-Talk/blob/master/Snyder%20Thesis%20Talk.pdf)
